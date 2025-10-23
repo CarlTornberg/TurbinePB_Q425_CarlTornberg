@@ -17,11 +17,11 @@ pub mod counter {
         instructions::initialize_count_account(ctx)
     }
 
-    pub fn count(ctx: Context<IncreaseCount>) -> Result<()> {
-        instructions::increase_count(ctx)
+    pub fn increment_account_count(ctx: Context<IncrementCount>) -> Result<()> {
+        instructions::increment_count(ctx)
     }
 
+    pub fn devrement_account_count(ctx: Context<DecrementCount>) -> Result<()> {
+        instructions::decrement_count(ctx)
+    }
 }
-
-#[derive(Accounts)]
-pub struct Initialize {}
