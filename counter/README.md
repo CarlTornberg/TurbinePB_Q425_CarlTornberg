@@ -1,16 +1,14 @@
 ### On-chain counting
 ### Project Name: Counting 
-### Value Proposition:
-
+### Value Proposition
 The counting program facilitates the ability for any human, regardless of cognitive abilities, to keep track of a number.
 The number can be incremented and decremented, enabling full control of the count for the individual.
 
-### Product-Market Fit:
-
+### Product-Market Fit
 Current human brain capabilities varies from individual to individual, where even humans with high cognitive brain capabilities occasionally suffers from Short Term Memory Loss (STML).
 Therefore, any individual can store and interact with an on-chain count, with the ability to both read and modify it freely.
 
-### Target User Profiles:
+### Target User Profiles
 * The "human" user: This user is any human, regardless of cognitive abilities. 
 They value the ability to read and modify their count, without any restrictions.
 
@@ -21,7 +19,7 @@ They value the ability to read and modify their count, without any restrictions.
 * As a registered user, when I create a new account, an error will occur.
 * As a new/registered user, when I create/increment/decrement an account that do not belong to me, an error will occur.
 
-### How To Run
+### How To Run:
 1. Clone and enter the repo
 ```
 git clone https://github.com/CarlTornberg/TurbinePB_Q425_CarlTornberg
