@@ -19,6 +19,8 @@ They value the ability to read and modify their count, without any restrictions.
 * As a registered user, when I create a new account, an error will occur.
 * As a new/registered user, when I create/increment/decrement an account that do not belong to me, an error will occur.
 
+![Counter sequence diagram](./figures/anchor_counter.drawio.svg)
+
 ### How To Run:
 1. Clone and enter the repo
 ```
