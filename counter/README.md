@@ -23,7 +23,7 @@ They value the ability to read and modify their count, without any restrictions.
 1. Clone and enter the repo
 ```
 git clone https://github.com/CarlTornberg/TurbinePB_Q425_CarlTornberg
-cd TurbinePB_Q425_CarlTornberg
+cd TurbinePB_Q425_CarlTornberg/counter
 ```
 2. Install dependencies
 ```
