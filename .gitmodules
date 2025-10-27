@@ -1,3 +1,6 @@
 [submodule "solana-token-minter"]
 	path = solana-token-minter
 	url = git@github.com:CarlTornberg/solana-token-minter.git
+[submodule "create-token-mint-solana"]
+	path = create-token-mint-solana
+	url = git@github.com:CarlTornberg/create-token-mint-solana.git
