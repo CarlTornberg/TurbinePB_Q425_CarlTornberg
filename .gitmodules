@@ -7,3 +7,6 @@
 [submodule "time-vault"]
 	path = time-vault
 	url = https://github.com/CarlTornberg/time-vault
+[submodule "p2p-token-escrow"]
+	path = p2p-token-escrow
+	url = git@github.com:CarlTornberg/p2p-token-escrow.git
