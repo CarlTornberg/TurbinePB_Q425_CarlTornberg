@@ -13,3 +13,6 @@
 [submodule "p2p-escrow-dapp"]
 	path = p2p-escrow-dapp
 	url = git@github.com:CarlTornberg/p2p-escrow-dapp.git
+[submodule "ts-client"]
+	path = ts-client
+	url = git@github.com:CarlTornberg/solana-ts-client.git
