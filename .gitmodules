@@ -16,3 +16,6 @@
 [submodule "create-token-metaplex"]
 	path = create-token-metaplex
 	url = git@github.com:CarlTornberg/create-token-metaplex.git
+[submodule "p2p-escrow-dapp"]
+	path = p2p-escrow-dapp
+	url = git@github.com:CarlTornberg/p2p-escrow-dapp.git
