@@ -19,3 +19,6 @@
 [submodule "create-token-metaplex"]
 	path = create-token-metaplex
 	url = git@github.com:CarlTornberg/create-token-metaplex.git
+[submodule "pvault"]
+	path = pvault
+	url = git@github.com:CarlTornberg/pvault.git
